@@ -1,0 +1,11 @@
+playwright
+groq
+google-generativeai
+anthropic
+gspread
+oauth2client
+google-auth
+google-auth-oauthlib
+pandas
+openpyxl
+python-dotenv
